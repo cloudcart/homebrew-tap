@@ -1,8 +1,8 @@
 class Cloudcart < Formula
   desc "AI-first developer CLI for managing CloudCart e-commerce stores"
   homepage "https://github.com/cloudcart/cli"
-  url "https://registry.npmjs.org/@cloudcart/cli/-/cli-0.1.2.tgz"
-  sha256 "c8d3eae160a892e32837db3dcae515e843e5383fef52b8141940c8bcf8b6d59f"
+  url "https://registry.npmjs.org/@cloudcart/cli/-/cli-0.1.4.tgz"
+  sha256 "89a6b349ae8e3c307a1b0e85a56350add584a66cf95022bd4890ac75bb8fe825"
   license "MIT"
 
   depends_on "node@22"
